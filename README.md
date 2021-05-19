@@ -1,6 +1,5 @@
-### Hi there !
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiRooky&show_icons=true&theme=radical)
-👋
+### Hi there !👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitRooky&show_icons=true)
 
 - 🔭 I’m currently working on multi-object tracking(MOT)
 - 🌱 I’m currently learning machine learning
