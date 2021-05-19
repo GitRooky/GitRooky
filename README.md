@@ -1,5 +1,5 @@
 ### Hi there !👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitRooky&layout=compact)](https://https://github.com/GitRooky/GitRooky/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitRooky&layout=compact)](https://https://github.com/GitRooky/)
 
 - 🔭 I’m currently working on multi-object tracking(MOT)
 - 🌱 I’m currently learning machine learning
