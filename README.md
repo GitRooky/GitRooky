@@ -1,5 +1,5 @@
 ### Hi there !👋
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GitRookyd&count_private=true&theme=tokyonight&showicons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GitRooky&count_private=true&theme=tokyonight&showicons=true)
 - 🔭 I’m currently working on multi-object tracking(MOT)
 - 🌱 I’m currently learning machine learning
 <!--
