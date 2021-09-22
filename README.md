@@ -1,7 +1,7 @@
 ### Hi there !👋
 - 🔭 I’m currently working on multi-object tracking(MOT)
 - 🌱 I’m currently learning data science
-- **GitRooky/GitRooky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <!--
 **GitRooky/GitRooky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
