@@ -2,12 +2,8 @@
 - 🔭 I’m currently working on multi-object tracking(MOT)
 - 🌱 I’m currently learning data science
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GitRooky&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GitRooky&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitRooky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **GitRooky/GitRooky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
