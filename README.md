@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on multi-object tracking(MOT)
 - 🌱 I’m currently learning data science
 
-![GitRooky's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitRooky&theme=midnight-purple&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitRooky&theme=midnight-purple&layout=compact)](https://github.com/DracoClaw/github-readme-stats)
+![GitRooky's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitRooky&theme=midnight-purple&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitRooky&theme=midnight-purple&layout=compact)](https://github.com/GitRooky/github-readme-stats)
 
 <!--
 **GitRooky/GitRooky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
