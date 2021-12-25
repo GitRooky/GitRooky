@@ -1,5 +1,5 @@
 ### Hi there !👋
-- 🔭 I’m currently working on multi-object tracking(MOT)
+- 🔭 I’m currently working on multi-object tracking(MOT) and machine learning w/ applications to autonomous driving
 - 😄 I'm an engineer and researcher
 - 🌱 I’m currently learning data science
 
