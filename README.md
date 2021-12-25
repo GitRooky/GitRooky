@@ -28,9 +28,9 @@
   <a href="https://github.com/GitRooky?tab=repositories">
     <img src="https://badges.pufler.dev/repos/GitRooky?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/GitRooky">
-    <img src="https://badges.pufler.dev/gists/GitRooky?style=flat-square&color=black&logo=github">
-  </a>
+<!--   <a href="https://gist.github.com/GitRooky"> -->
+<!--     <img src="https://badges.pufler.dev/gists/GitRooky?style=flat-square&color=black&logo=github"> -->
+<!--   </a> -->
   <a href="https://github.com/GitRooky">
     <img src="https://badges.pufler.dev/commits/monthly/GitRooky?style=flat-square&color=black&logo=github">
   </a>
