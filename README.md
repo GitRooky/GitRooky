@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
 
-📊 **This Week I Spent My Time On:**
+<!-- 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 C/C++      5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
@@ -66,4 +66,4 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 
 If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake please 🥺👉👈  
 
-<a href="https://charmve.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://charmve.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
