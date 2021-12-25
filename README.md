@@ -20,19 +20,19 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/GitRooky">
-    <img src="https://badges.pufler.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/GitRooky/GitRooky?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/GitRooky">
-    <img src="https://badges.pufler.dev/years/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/GitRooky?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/GitRooky?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/GitRooky?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://gist.github.com/GitRooky">
-    <img src="https://badges.pufler.dev/gists/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/gists/GitRooky?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/GitRooky">
-    <img src="https://badges.pufler.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/commits/monthly/GitRooky?style=flat-square&color=black&logo=github">
   </a>
 </p>
 <!--
