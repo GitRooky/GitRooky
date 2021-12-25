@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=GitRooky&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
     -->
   </a>
-</p> -->
+</p>
 
 
 **Languages and Frameworks**
