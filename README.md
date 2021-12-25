@@ -9,11 +9,11 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   &emsp;
-  <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank" alt="Zhihu" title="Zhihu">
+  <a href="https://www.zhihu.com/people/niu-niu-42-2-32/columns" target="_blank" alt="Zhihu" title="Zhihu">
     <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
   </a>
   &emsp;
-  <a href="https://www.linkedin.com/in/charmve" target="_blank" alt="LinkedIn" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/pengchao-leonard-liu-28672419a/" target="_blank" alt="LinkedIn" title="LinkedIn">
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
   <br><br>
