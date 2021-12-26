@@ -39,7 +39,7 @@
 
 <h2></h2>
 
-<img align="right" alt="GIF" src="https://github.com/GitRooky/GitRooky/blob/main/materials/safe_image.gif?raw=true" width="323" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" alt="GIF" src="https://github.com/GitRooky/GitRooky/blob/main/materials/safe_image.gif?raw=true" width="303" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 <!--
 **GitRooky/GitRooky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
