@@ -1,4 +1,4 @@
-### Hi there !👋 <img align="left" alt="GIF" src="https://github.com/GitRooky/GitRooky/blob/main/materials/banner-gif-welcome.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+### Hi there !👋 <img align="left" alt="GIF" src="https://github.com/GitRooky/GitRooky/blob/main/materials/banner-gif-welcome.gif" height = "60" width="160" title="Welconme!">
 - 🔭 I’m currently working on multi-object tracking(MOT) and machine learning w/ applications to autonomous driving
 - 😄 I'm an engineer and researcher
 - 🌱 I’m currently learning data science
