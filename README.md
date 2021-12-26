@@ -1,5 +1,6 @@
+<body>
 <div align="center" alt="GIF" src="https://github.com/GitRooky/GitRooky/blob/main/materials/banner-gif-welcome.gif" height = "60" width="160" title="Welconme!"> 
-
+</body>
 ### Hi there !👋
 - 🔭 I’m currently working on multi-object tracking(MOT) and machine learning w/ applications to autonomous driving
 - 😄 I'm an engineer and researcher
