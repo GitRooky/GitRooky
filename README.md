@@ -1,4 +1,5 @@
 ### Hi there !👋
+<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 - 🔭 I’m currently working on multi-object tracking(MOT) and machine learning w/ applications to autonomous driving
 - 😄 I'm an engineer and researcher
 - 🌱 I’m currently learning data science
