@@ -1,8 +1,8 @@
 <img align="center" alt="GIF" src="https://github.com/GitRooky/GitRooky/blob/main/materials/banner-gif-welcome.gif" height = "60" width="160" title="Welconme!">
 
 ### Hi there !👋
-- 🔭 I’m currently working on multi-object tracking(MOT) and machine learning w/ applications to autonomous driving
 - 😄 I'm an engineer and researcher
+- 🔭 I’m currently working on multi-object tracking(MOT) and machine learning w/ applications to autonomous driving
 - 🌱 I’m currently learning data science
 
 ![GitRooky's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitRooky&theme=midnight-purple&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitRooky&theme=midnight-purple&layout=compact)](https://github.com/GitRooky/github-readme-stats)
