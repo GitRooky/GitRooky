@@ -3,7 +3,7 @@
 ### Hi there !👋
 - 😄 I'm an engineer and researcher
 - 🔭 I’m currently working on multi-object tracking(MOT) and machine learning w/ applications to autonomous driving
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning machine learning
 
 ![GitRooky's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitRooky&theme=midnight-purple&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitRooky&theme=midnight-purple&layout=compact)](https://github.com/GitRooky/github-readme-stats)
 <p align="center">
