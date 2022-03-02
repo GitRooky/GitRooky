@@ -33,9 +33,9 @@
 <!--   <a href="https://gist.github.com/GitRooky"> -->
 <!--     <img src="https://badges.pufler.dev/gists/GitRooky?style=flat-square&color=black&logo=github"> -->
 <!--   </a> -->
-<!--   <a href="https://github.com/GitRooky">
+  <a href="https://github.com/GitRooky">
     <img src="https://badges.pufler.dev/commits/monthly/GitRooky?style=flat-square&color=black&logo=github">
-  </a> -->
+  </a>
 </p>
 
 
