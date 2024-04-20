@@ -16,7 +16,7 @@
   </a>
   &emsp;
   <a href="https://www.linkedin.com/in/pengchao-leonard-liu-28672419a/" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="materials/LinkedIn_2021.svg.png" width="65px"/>
+    <img src="materials/LinkedIn_2021.svg.png" width="75px"/>
   </a>
   <br><br>
 <!--    <strong>Check out my work below!</strong>
